@@ -1,5 +1,5 @@
 <div  align="left">
-  <img src="https://github.com/pixelaffection/pixelaffection/blob/main/pxaff-banner.png?raw=true" width="66%">
+  <img src="https://github.com/pixelaffection/pixelaffection/blob/main/pxaff-banner.png?raw=true" width="70%">
 </div>
 <!-- about me -->
 <div align="left">
