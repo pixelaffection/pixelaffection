@@ -41,7 +41,7 @@
         <dt>read at least 2 books by the end of 2026</dt>
         <dt>practice coding again</dt>
         <dt>study for another certification</dt>
-        <dt>explore cyber deck creation</dt>
+        <dt>explore cyberdeck creation</dt>
       </td>
     </tr>
   </table>
