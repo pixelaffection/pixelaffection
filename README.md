@@ -26,7 +26,7 @@
         <dt>&nbsp;&nbsp;BS in Information Technology</dt>
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ major in Web Technology</dd>
         <dt>&nbsp;&nbsp;CompTIA Security+</dt>
-          <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ 2026-2029</dd>
+          <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ 2026-2029</dd>
         <br>
         <dt><b>work experience:</b></dt>
         <dt>&nbsp;&nbsp;Technology Risk Assurance, Staff 2 (2024 - 2025)</dt>
