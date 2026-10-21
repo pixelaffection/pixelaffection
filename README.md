@@ -45,7 +45,7 @@
       </td>
     </tr>
     <tr>
-      <td>👾<br>passion projects</b></td>
+      <td>👾<b><br>passion projects</b></td>
       <td>
         <dt>&nbsp;&nbsp;<a href="https://pixeldex.apixels.net/">PixelDex</a> (collab with <a href="https://github.com/lanceranara13">Lance</a>)</dt>
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Pokémon TCG tracker</a></dd>
