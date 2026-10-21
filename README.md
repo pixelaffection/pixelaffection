@@ -1,6 +1,6 @@
 <!-- banner -->
 <div  align="justify">
-  <img src="https://github.com/pixelaffection/pixelaffection/blob/main/pxaff-banner.png?raw=true" width="70%">
+  <img src="https://github.com/pixelaffection/pixelaffection/blob/main/pxaff-banner.png?raw=true" height="100%" width="70%">
 </div>
 <!-- about me -->
 <div align="justify">
