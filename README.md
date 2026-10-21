@@ -26,11 +26,11 @@
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ major in Web Technology</dd>
         <dt>CompTIA Security+</dt>
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ 2026-2029</dd>
-        <dt>Technology Risk Assurance</dt>
+        <dt>Technology Risk Assurance, Staff 2</dt>
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ Big 4 firm</dd>
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ Information Security Committee member
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ ITGC, SOC 2</dd>
-        <dt>Identity and Access Management Analyst</dt>
+        <dt>Identity and Access Management Analyst, L1</dt>
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ Consulting firm</dd>
         <dd>&nbsp;&nbsp;&nbsp;&nbsp;◦ SailPoint ISC, Postman, REST
       </td>
