@@ -34,7 +34,7 @@
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Information Security Committee member
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ ITGC, SOC 2</dd>
         <dt>&nbsp;&nbsp;Identity and Access Management Analyst, L1 (2026 - present)</dt>
-          <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Consulting firm</dd>
+          <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Cybersecurity consulting firm</dd>
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ SailPoint ISC, Postman, REST
       </td>
     </tr>
