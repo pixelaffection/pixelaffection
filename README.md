@@ -35,7 +35,7 @@
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ ITGC, SOC 2, NIST, ISO 27001, COBIT</dd>
         <dt>&nbsp;&nbsp;Identity and Access Management Analyst, L1 (2026 - present)</dt>
           <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Cybersecurity consulting firm</dd>
-          <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ SailPoint ISC, Postman, REST
+          <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ SailPoint Identity Security Cloud, RESTful APIs, Postman
       </td>
     </tr>
     <tr>
